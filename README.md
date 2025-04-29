@@ -8,11 +8,11 @@
 
 ---
 
-## 📖 Overview
+## Overview
 
 This project, titled *"Characterization of Geomagnetic Pulsations in Corroboration with the Solar Wind Parameters"*, is submitted in partial fulfillment of the requirements for the Bachelor of Physics degree. It explores the key parameters affecting the generation one of the important tools (i.e. geomagnetic pulsations) of the magnetosphere diagnostics.
 
-## 🎯 Objectives
+## Objectives
 
 - To investigate geomagnetic pulsations (ULF waves) as indicators of magnetospheric response to solar wind disturbances.
 - To analyze the observational link between solar wind conditions and geomagnetic activity during an intense solar storm.
@@ -22,13 +22,13 @@ This project, titled *"Characterization of Geomagnetic Pulsations in Corroborati
 
 
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 - Programming Language: Python
 - Libraries: NumPy, Pandas, SciPy, Matplotlib.
 - Data Sources: NTERMAGNET, WDC for Geomagnetism, OMNIWeb.
 
-## 🧪 Methodology
+## Methodology
 
 ### Coordinate Systems
 Two IAGA-recommended systems are used:
@@ -65,7 +65,7 @@ Solar wind data from OMNIWeb.
 Welch method applied hourly (512-point segments) using:
 
 
-## 📝 Citation
+## Citation
 
 If you'd like to cite this project, please use:
 
